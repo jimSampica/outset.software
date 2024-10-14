@@ -1,1 +1,1 @@
-# trustic.tech
+# outset.software
