@@ -1,4 +1,4 @@
-resource staticSite 'Microsoft.Web/staticSites@2022-09-01' = {
+resource staticSite 'Microsoft.Web/staticSites@2024-04-01' = {
   name: 'outset-stapp'
   location: 'centralus'
   properties: {
