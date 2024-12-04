@@ -13,5 +13,8 @@ resource staticSite 'Microsoft.Web/staticSites@2024-04-01' = {
 
   resource customDomain 'customDomains' = {
     name: 'outset.software'
+    properties:{
+      validationMethod:'dns-txt-token'
+    }
   }
 }
