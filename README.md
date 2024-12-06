@@ -1,3 +1,1 @@
-# outset.software
-
-WIP :)
+Hosted at [outset.software](outset.software)
