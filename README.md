@@ -1,1 +1,1 @@
-Hosted at [outset.software](outset.software)
+Hosted at [outset.software](https://outset.software)
